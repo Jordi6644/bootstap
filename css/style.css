@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+
+.cabecera{
+    background-color: gray;
+    height: 80px;
+    margin-bottom: 100px;
+}
+
+.containeruno{}
+ #uno, #dos, #tres {
+    
+    width: 100px;
+    background-color: gray;
+    height: 100px;
+    height: 100% auto; 
+        
+    margin-left: 50px;
+    margin-bottom: 10px;
+     
+}
+#uno{
+    height: 700px;
+    bottom: 0px;
+}
+#dos{
+    height: 300px;
+}
+.containerdos{
+    
+    margin-left: 630px;
+    width: 760px;
+}
+ #cuatro, #cinco, #seis {
+    
+    bottom:400px;
+    background-color: gray;
+    height: 200px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+.containertres{
+ margin-left: 630px;
+    width: 760px;
+}
+ #siete, #ocho, #nueve {
+    
+    bottom: 400px;
+    background-color: gray;
+    height: 200px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.cabecerados{
+    clear: both;
+    top:0px;
+    background-color: gray;
+    height: 40px;
+    margin-top: 85px;
+    margin-bottom: 0px;
+}
